@@ -104,10 +104,6 @@ postgresql://username:password@localhost:5432/my_database
 postgres://user:pass@remotehost.com:5432/dbname
 ```
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contributing
 
 Pull requests and issues are welcome. Please feel free to contribute.
