@@ -95,7 +95,6 @@ Examples:
 - Streamlit (frontend)
 - OpenAI GPT (gpt-4 / gpt-3.5-turbo)
 - PostgreSQL
-- SQLAlchemy (optional)
 - dotenv, pandas, plotly
 
 ## Example Connection Strings
