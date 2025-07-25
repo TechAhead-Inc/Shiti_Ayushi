@@ -103,7 +103,3 @@ Examples:
 postgresql://username:password@localhost:5432/my_database
 postgres://user:pass@remotehost.com:5432/dbname
 ```
-
-## Contributing
-
-Pull requests and issues are welcome. Please feel free to contribute.
